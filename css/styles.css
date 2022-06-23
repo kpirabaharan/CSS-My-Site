@@ -1,0 +1,50 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 0px;
+  font-family: 'Amatic SC', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  width: 150px;
+}
+
+.soft-pic{
+  width: 400px;
+}
+
+.robotics-pic{
+  width: 400px;
+}
+
+.top-container{
+  background-color: #C4DDFF;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
